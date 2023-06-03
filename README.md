@@ -1,4 +1,4 @@
-### <div align="center">Hi! I'm Dario👋 I work as a Junior Embedded Firmware Developer🧑‍💻 in Zurich 📌</div>  
+### <div>Hi! I'm Dario👋 I work as a Junior Embedded Firmware Developer🧑‍💻 in Zurich 📌</div>  
   
 
 - 🔭 I’m currently working on a chickenhouse door monitoring system 🐔📺  
