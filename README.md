@@ -1,10 +1,10 @@
 ### <div>Hi! I'm Dario👋 I work as a Junior Embedded Firmware Developer🧑‍💻 in Zurich 📌</div>  
   
 
-- 🔭 I’m currently working on a chickenhouse door monitoring system 🐔📺  
+- I’m currently working on a chickenhouse door monitoring system 🐔📺  
   
 
-- 🌱 I’m currently deepdiving into Embedded C++  
+- I’m currently deepdiving into Embedded C++ 🌱
   
 
 - I have a passion for Photography 📷  
