@@ -86,6 +86,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DarioCasciato&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>
+[![](https://visitcount.itsvg.in/api?id=DarioCasciato&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <br/>  
 
 
