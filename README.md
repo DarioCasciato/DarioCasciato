@@ -12,7 +12,7 @@
 
 - I'm originally from Italy 🇮🇹
 
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+- Favourite IDE: ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
   
 
 <br/>  
