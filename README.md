@@ -83,9 +83,9 @@
 <br/>
 
 ## Latest Blog Posts on Dev.to
-- 📝 [ATtiny85 Programming: Your Complete Guide with Arduino and PlatformIO!](https://dev.to/dariocasciato/attiny85-programming-your-complete-guide-with-arduino-and-platformio-37do)
-- 📝 [Bits and Bytes: A Comprehensive Guide to Bit Manipulation](https://dev.to/dariocasciato/bits-and-bytes-a-comprehensive-guide-to-bit-manipulation-for-developers-m5c)
-- 📝 [Edgy Firmware: The Only Edge Detection Solution You'll Ever Need](https://dev.to/dariocasciato/attiny85-programming-your-complete-guide-with-arduino-and-platformio-37do)
+- 📝 **[ATtiny85 Programming: Your Complete Guide with Arduino and PlatformIO!](https://dev.to/dariocasciato/attiny85-programming-your-complete-guide-with-arduino-and-platformio-37do)**
+- 📝 **[Bits and Bytes: A Comprehensive Guide to Bit Manipulation](https://dev.to/dariocasciato/bits-and-bytes-a-comprehensive-guide-to-bit-manipulation-for-developers-m5c)**
+- 📝 **[Edgy Firmware: The Only Edge Detection Solution You'll Ever Need](https://dev.to/dariocasciato/attiny85-programming-your-complete-guide-with-arduino-and-platformio-37do)**
 
 ### [Read more blog posts](https://dev.to/DarioCasciato)
 <br/>
