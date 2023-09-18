@@ -58,6 +58,8 @@
 
 </td></tr></table>  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioCasciato&hide_progress=true)
+
 -----
 
 <br/>  
@@ -96,7 +98,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DarioCasciato&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DarioCasciato&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
