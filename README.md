@@ -20,6 +20,7 @@
 -----
 
 ## My Skill Set  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -57,6 +58,7 @@
 </div>
 
 </td></tr></table>  
+<div/>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioCasciato&layout=compact" align="center" /><div/>
 
