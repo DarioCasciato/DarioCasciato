@@ -89,6 +89,8 @@
 <br/>
 
 ## Latest Blog Posts on Dev.to
+📝 **[TLV: A Powerful Tool for handling Data in Embedded Systems](https://dev.to/dariocasciato/tlv-a-powerful-tool-for-handling-data-in-embedded-systems-f4e)**
+
 📝 **[Optimize Embedded Development: Must-Have VSCode Extensions](https://dev.to/dariocasciato/optimize-embedded-development-must-have-vscode-extensions-5d91)**
 
 📝 **[ATtiny85 Programming: Your Complete Guide with Arduino and PlatformIO!](https://dev.to/dariocasciato/attiny85-programming-your-complete-guide-with-arduino-and-platformio-37do)**
