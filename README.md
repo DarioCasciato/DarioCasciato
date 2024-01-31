@@ -1,15 +1,10 @@
 ### <div>Hi! I'm Dario👋 I work as a Junior Embedded Firmware Developer🧑‍💻 in Zurich 📌</div>  
   
 
-- I’m currently deepdiving into Embedded C++ 🌱
-  
-
 - I have a passion for Photography / Videography 📷  
   
 
 - I'm originally from Italy 🇮🇹
-
-- Favourite IDE: ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
   
 
 <br/>  
