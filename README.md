@@ -1,4 +1,4 @@
-### <div>Hi! I'm Dario👋 I work as a Junior Embedded Firmware Developer🧑‍💻 in Zurich 📌</div>  
+### <div>Hi! I'm Dario👋 I work as a Software Specialist🧑‍💻 in Zurich 📌</div>  
   
 
 - I have a passion for Photography / Videography 📷  
